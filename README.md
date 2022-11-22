@@ -1,3 +1,16 @@
+<p align = "center">
+  <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla" target="blank">
+    <img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" width=100% />
+  </a>
+</p>
+
+---
 
 # Welcome To My Github <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="center"><a href="https://github.com/myohtetpaing2021"><img src="https://avatars.githubusercontent.com/u/90402957?v=4" height='195' alt="myohtetpaing2021 profile">
